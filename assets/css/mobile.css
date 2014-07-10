@@ -1,0 +1,14 @@
+
+#view-port {
+    border : 1px solid red;
+    position : relative;
+    height : 500px;
+    width : 300px;
+    overflow: hidden;
+}
+
+.page {
+    position : absolute;
+    width : 100%;
+    height : 100%;
+}

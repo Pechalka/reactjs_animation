@@ -1,0 +1,38 @@
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 300%;
+	margin: 10px;
+	text-align: center;
+}
+
+#app {
+	margin: 0 auto;
+	width: 600px;
+}
+
+#menu {
+	padding: 20px;
+}
+
+#menu a {
+    padding-right : 30px;   
+    color: #000;
+    font-weight: bold;
+}
+
+#page1 {
+    background : blue;
+}
+
+#page2 {
+    background : yellow;    
+}
+
+#page3 {
+    background : green;    
+}

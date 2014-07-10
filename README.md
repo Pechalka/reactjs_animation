@@ -17,3 +17,8 @@ gulp dev
 ```
 
 To build only use `gulp build`.
+
+### todo:
+
+* use [autoprefixer](https://github.com/ai/autoprefixer/)
+* more animations
